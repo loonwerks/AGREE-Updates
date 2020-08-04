@@ -3,12 +3,13 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1595363550731'/>
+    <property name='p2.timestamp' value='1596573448294'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='agree_2.4.0'/>
     <child location='agree_2.4.1'/>
     <child location='agree_2.4.2'/>
     <child location='agree_2.5.0'/>
+    <child location='agree_2.5.1'/>
   </children>
 </repository>
