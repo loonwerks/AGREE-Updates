@@ -3,9 +3,9 @@
 <repository name='&quot;AGREE Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1649277313599'/>
+    <property name='p2.timestamp' value='1685565230861'/>
   </properties>
-  <children size='11'>
+  <children size='12'>
     <child location='agree_2.4.0'/>
     <child location='agree_2.4.1'/>
     <child location='agree_2.4.2'/>
@@ -17,5 +17,6 @@
     <child location='agree_2.8.0'/>
     <child location='agree_2.9.0'/>
     <child location='agree_2.9.1'/>
+    <child location='agree_2.10.0'/>
   </children>
 </repository>
