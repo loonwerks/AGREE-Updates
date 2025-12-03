@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='AGREE Snapshots' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1764772720562'/>
+    <property name='p2.atomic.composite.loading' value='true'/>
+  </properties>
+  <children size='11'>
+    <child location='2.11.3.202409261747'/>
+    <child location='2.11.3.202503071505'/>
+    <child location='2.11.3.202504181859'/>
+    <child location='2.11.3.202504242224'/>
+    <child location='2.11.3.202504242324'/>
+    <child location='2.11.3.202508012319'/>
+    <child location='2.11.3.202508012323'/>
+    <child location='2.11.3.202512011327'/>
+    <child location='2.11.3.202512011518'/>
+    <child location='2.11.3.202512021301'/>
+    <child location='2.12.1.202512031425'/>
+  </children>
+</repository>
