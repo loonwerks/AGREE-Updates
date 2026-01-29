@@ -27,9 +27,8 @@ repository for information regarding developing and maintaining AGREE.
 
 ## Installing AGREE in OSATE
 
-This repo can be installed on Eclipse by following these steps:
-1. Go to *Help* > *Install New Software...*
-2. Select *Add*
-3. In the location, enter [https://loonwerks.github.io/AGREE-Updates](https://loonwerks.github.io/AGREE-Updates), or specify a specific release or snapshot (e.g., [https://loonwerks.github.io/AGREE-Updates/releases/2.10.0](https://loonwerks.github.io/AGREE-Updates/releases/2.10.0)) and press *Add*
-4. Make sure the box *Contact all update sites during install to find required software* is unchecked
-5. Check the desired software, click *Next >*, and finish the rest of the install according to the prompts
+AGREE can be installed on Eclipse by following these steps:
+1. Go to *Help* > *Install Additional OSATE Components*
+2. Scroll down and select the *AGREE* checkbox, then click *Finish*
+3. Click *through the Install wizard according to the prompts.  You may be asked to trust AGREE content.
+4. OSATE will need to be restarted for changes to take effect.
